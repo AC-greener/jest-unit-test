@@ -1,0 +1,2 @@
+{"C:\\Users\\i-zhutongtong\\Desktop\\jest-unit-test\\math.js": {"path":"C:\\Users\\i-zhutongtong\\Desktop\\jest-unit-test\\math.js","statementMap":{"0":{"start":{"line":2,"column":2},"end":{"line":2,"column":14}}},"fnMap":{"0":{"name":"add","decl":{"start":{"line":1,"column":16},"end":{"line":1,"column":19}},"loc":{"start":{"line":1,"column":26},"end":{"line":3,"column":1}},"line":1}},"branchMap":{},"s":{"0":1},"f":{"0":1},"b":{},"_coverageSchema":"43e27e138ebf9cfc5966b082cf9a028302ed4184","hash":"eceb7826fe1039da439340963560463864b179bd"}
+}

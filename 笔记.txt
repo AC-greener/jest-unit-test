@@ -1,0 +1,12 @@
+//  mock  不是真实的去发送ajax请求，而是模拟
+// -D 旨在开发环境中运行测试用例
+/*
+   单元测试就是测试单个的模块，必须要导入制定的模块  
+   集成测试，多个模块的测试
+   npx jest --init
+   npx jest --coverage
+   jest --watch
+   jest --watchAll
+   是node环境， jest 不认识 es6模块化语法，因此要用babel
+   cnpm install @babel/core@7.4.5 @babel/preset-env@7.4.5 -D
+*/
